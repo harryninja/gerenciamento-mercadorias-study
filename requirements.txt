@@ -1,0 +1,9 @@
+flask
+flask_sqlalchemy
+flask_cors
+flask_marshmallow
+marshmallow-sqlalchemy
+pdfkit
+flask-jwt-extended
+flask-bcrypt
+psycopg2
